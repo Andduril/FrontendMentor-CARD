@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/Andduril/FrontendMentor-CARD)
+- Solution URL: [https://github.com/Andduril/FrontendMentor-CARD](solution)
 
 ## My process
 
